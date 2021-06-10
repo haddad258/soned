@@ -7,4 +7,5 @@ backend: installer nodejs and mysql
 frontend 
 1-run with cmd npm install
 2-run with cmd npm start
+h
 
